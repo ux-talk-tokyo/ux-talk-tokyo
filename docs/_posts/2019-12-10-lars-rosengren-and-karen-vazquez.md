@@ -7,16 +7,14 @@ Thanks for everyone who came out last week for UX Talk Tokyo #55, with presentat
 
 Here are the links from the Show and Tell portion of our evening.
 
-Framer is now going to the web!
-https://www.framer.com/web/
+Framer is now going to the web! [Framer web](https://www.framer.com/web/)
 
 Netflix’s “Art of Design” features an episode with Ian Spalter, head of Instagram design, and features a little bit on Origami, our fave prototyping tool. [Art of Design on Netflix](https://www.netflix.com/title/80057883)
 
 Talking of Shows, HBO’s Silicon Valley is back and parodies the tech world brilliantly. First five seasons are on JP Amazon Prime
 [Silicon Valley on HBO](https://www.hbo.com/silicon-valley)
 
-Talking of satire, would you know this was a joke?
-https://fibery.io/freedom
+Talking of satire, would you know this was a joke?[Fibery site](https://fibery.io/freedom)
 
 Protopie is now going full on collaboration!
 https://blog.protopie.io/protopie-for-teams-collaborate-more-efficiently-prototype-better-together-176be696351e
