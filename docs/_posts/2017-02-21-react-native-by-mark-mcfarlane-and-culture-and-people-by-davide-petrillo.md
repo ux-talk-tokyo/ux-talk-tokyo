@@ -1,16 +1,10 @@
 ---
 layout: post
-title: "2017-02-21 'React Native' by Mark McFarlane and 'Culture and People' by Davide Petrillo"
+title: "Event #34: 'React Native' by Mark McFarlane and 'Culture and People' by Davide Petrillo"
 snippet: ""
 ---
 
 ![Event photo](/assets/images/2017-02-21/IMG_5540.JPG)
-
-
-
-
-UX Talk #34: "React Native" by Mark McFarlane and "Culture and People" by Davide Petrillo
-
 Indeed Tokyo 
 
 Yebisu Garden Place Tower 32F, 20-3 Ebisu 4-chome, Shibuya-ku, Tokyo 150-6032
