@@ -8,5 +8,3 @@ title: About
 We try hard to make events welcoming for people who haven't been before, so please do come along and feel welcome.
 
 [Present at UX Talk Tokyo](/about/present)
-[Present at UX Talk Tokyo](/about/present.html)
-[Present at UX Talk Tokyo](/about/present.md)
