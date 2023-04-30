@@ -13,6 +13,7 @@ If you’re interested, please sign up to the email list. And please feel free t
   {% for post in site.posts %}
     <li>
       <a href="{{ post.url }}">{{ post.title }}</a>
+      <p>{{ post.snippet }}</p>
     </li>
   {% endfor %}
 </ul>
