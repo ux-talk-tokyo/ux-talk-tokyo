@@ -14,7 +14,7 @@ Netflix’s “Art of Design” features an episode with Ian Spalter, head of In
 Talking of Shows, HBO’s Silicon Valley is back and parodies the tech world brilliantly. First five seasons are on JP Amazon Prime
 [Silicon Valley on HBO](https://www.hbo.com/silicon-valley)
 
-Talking of satire, would you know this was a joke?[Fibery site](https://fibery.io/freedom)
+Talking of satire, would you know this was a joke? [Fibery site](https://fibery.io/freedom)
 
 Protopie is now going full on collaboration!
 https://blog.protopie.io/protopie-for-teams-collaborate-more-efficiently-prototype-better-together-176be696351e
