@@ -3,8 +3,6 @@ layout: post
 title: "Event #55 Lars Rosengren and Karen Vazquez"
 ---
 
-#55 Lars Rosengren and Karen Vazquez
-
 Thanks for everyone who came out last week for UX Talk Tokyo #55, with presentations by Lars Rosengren (“Agile”) and Karen Vazquez: (“Understanding by Design (UbD)”), and a special thanks to our hosts at Zehitomo.
 
 Here are the links from the Show and Tell portion of our evening.
@@ -23,11 +21,8 @@ https://fibery.io/freedom
 Protopie is now going full on collaboration!
 https://blog.protopie.io/protopie-for-teams-collaborate-more-efficiently-prototype-better-together-176be696351e
 
-21_21’s Inspiration exhibition is a must for those interested in the process of design
-http://www.2121designsight.jp/en/program/inspiration/
+[21_21’s Inspiration exhibition](http://www.2121designsight.jp/en/program/inspiration/) is a must for those interested in the process of design
 
-Here are the the Good Design Award Winners for 2019
-https://www.g-mark.org/?locale=en
+Here are the the [Good Design Award Winners for 2019](https://www.g-mark.org/?locale=en)
 
-And here is the job posting for a UX researcher at Google.
-https://careers.google.com/jobs/results/102962814429078214-ux-researcher-google-maps-auto/
+And here is the [job posting for a UX researcher at Google](https://careers.google.com/jobs/results/102962814429078214-ux-researcher-google-maps-auto/).
