@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Welcome
+regenerate: true
 ---
 
 ‘UX Talk Tokyo’ is a User Experience discussion and networking group in Tokyo.
