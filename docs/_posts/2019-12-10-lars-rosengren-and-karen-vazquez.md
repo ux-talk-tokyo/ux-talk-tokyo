@@ -2,6 +2,7 @@
 layout: post
 title: "Event #55 Lars Rosengren and Karen Vazquez"
 snippet: "Thanks to Zehitomo for hosting and Lars and Karen for their talks on Agile and Understanding by Design (UbD) respectively."
+url: 2019-12-10-lars-rosengren-and-karen-vazquez.md
 ---
 
 
