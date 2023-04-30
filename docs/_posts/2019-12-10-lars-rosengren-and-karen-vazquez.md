@@ -13,7 +13,8 @@ Framer is now going to the web!
 https://www.framer.com/web/
 
 Netflix’s “Art of Design” features an episode with Ian Spalter, head of Instagram design, and features a little bit on Origami, our fave prototyping tool
-https://www.netflix.com/title/80057883
+
+[Art of Design on Netflix](https://www.netflix.com/title/80057883)
 
 Talking of Shows, HBO’s Silicon Valley is back and parodies the tech world brilliantly. First five seasons are on JP Amazon Prime
 https://www.hbo.com/silicon-valley
