@@ -4,9 +4,18 @@
 @import "{{ site.theme }}";
 body {
   background-color: #FDFBF9;
+  font-family: 'Open Sans', sans-serif;
 }
 
 h1 {
   color: #333333;
   font-family: 'Merriweather', serif;
+}
+
+.lato {
+  font-family: 'Lato', sans-serif;
+}
+
+.ptsans {
+  font-family: 'PT Sans', sans-serif;
 }
