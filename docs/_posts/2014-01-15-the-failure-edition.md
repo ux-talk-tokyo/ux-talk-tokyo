@@ -4,6 +4,7 @@ title: UX Talk Tokyo #5 - The FAILURE edition
 snippet: The next exciting meeting of UX Talk Tokyo will take place in a couple of weeks. And again Gengo ...
 ---
 21 participants
+
 Gengo offices 3-27-11, Yushin bldg 8F, Shibuya, Shibuya-ku, Tokyo, Japan 150-0002
 
 It's time for UX Talk Tokyo #5 ...
