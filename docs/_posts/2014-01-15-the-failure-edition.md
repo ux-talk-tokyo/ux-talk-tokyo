@@ -1,7 +1,7 @@
 ---
 layout: post
 title: UX Talk Tokyo #5 - The FAILURE edition
-snippet: The next exciting meeting of UX Talk Tokyo will take place in a couple of weeks. And again Gengo ...
+snippet: UX Talk Tokyo #6 is next week on Wednesday 19th, and there will be two talks ... Ryan (from Up ...
 ---
 21 participants
 
