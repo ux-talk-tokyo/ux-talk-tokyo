@@ -1,6 +1,6 @@
 ---
 layout: post
-title: #39: Bill Tribble : "How to Win at Remote Work" / Yukino Kohmoto "UX Around Machine Learning"
+title: 2017 Sep-#39: Bill Tribble : "How to Win at Remote Work" / Yukino Kohmoto "UX Around Machine Learning"
 snippet: Before we start... Just a message from the organisers - if you reserve a ticket and then can't ...
 ---
 81 participants

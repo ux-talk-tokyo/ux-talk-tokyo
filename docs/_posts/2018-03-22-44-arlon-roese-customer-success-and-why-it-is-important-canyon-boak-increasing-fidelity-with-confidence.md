@@ -1,6 +1,6 @@
 ---
 layout: post
-title: #44: Arlon Roese : "Customer Success and Why it is Important" / Canyon Boak: "Increasing Fidelity with Confidence"
+title: 2018 Mar-#44: Arlon Roese : "Customer Success and Why it is Important" / Canyon Boak: "Increasing Fidelity with Confidence"
 snippet: Before we start... Just a message from the organisers - if you reserve a ticket and then can't ...
 ---
 55 participants

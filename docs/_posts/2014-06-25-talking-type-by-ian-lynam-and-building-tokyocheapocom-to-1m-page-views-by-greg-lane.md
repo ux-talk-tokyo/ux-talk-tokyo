@@ -1,6 +1,6 @@
 ---
 layout: post
-title: UX Talk Tokyo #10 - "Talking Type" by Ian Lynam & "Building TokyoCheapo.com to 1m page views" by Greg Lane
+title: 2014 Jun-UX Talk Tokyo #10 - "Talking Type" by Ian Lynam & "Building TokyoCheapo.com to 1m page views" by Greg Lane
 snippet: There will be two presentations: 1) UX Research at Sony Carol Chung, visiting us from Sony in ...
 ---
 22 participants

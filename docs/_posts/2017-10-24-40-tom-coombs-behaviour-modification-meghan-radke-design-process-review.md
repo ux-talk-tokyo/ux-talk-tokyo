@@ -1,6 +1,6 @@
 ---
 layout: post
-title: #40: Tom Coombs: "Behaviour Modification" / Meghan Radke: "Design Process review"
+title: 2017 Oct-#40: Tom Coombs: "Behaviour Modification" / Meghan Radke: "Design Process review"
 snippet: Before we start... Just a message from the organisers - if you reserve a ticket and then can't ...
 ---
 98 participants

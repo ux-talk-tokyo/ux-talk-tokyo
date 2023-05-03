@@ -1,6 +1,6 @@
 ---
 layout: post
-title: UX Talk Tokyo #28 : "Atomic Design" by Tom Coombs and "Rapid Collaborative UX Testing" by Ryan Barkataki
+title: 2016 Jul-UX Talk Tokyo #28 : "Atomic Design" by Tom Coombs and "Rapid Collaborative UX Testing" by Ryan Barkataki
 snippet: UXTalkTokyo is BACK for August! There will be two presentations: 1) From Brazil! CI&T's UX ...
 ---
 34 participants

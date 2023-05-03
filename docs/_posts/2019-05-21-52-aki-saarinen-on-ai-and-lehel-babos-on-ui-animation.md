@@ -1,6 +1,6 @@
 ---
 layout: post
-title: #52: Aki Saarinen on "AI" & Lehel Babos on "UI Animation"
+title: 2019 May-#52: Aki Saarinen on "AI" & Lehel Babos on "UI Animation"
 snippet: Before we start... Just a message from the organisers - if you reserve a ticket and then can't ...
 ---
 102 participants

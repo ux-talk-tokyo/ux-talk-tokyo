@@ -1,6 +1,6 @@
 ---
 layout: post
-title: UX Talk Tokyo #6 - Usability labs & Qualitative research methods
+title: 2014 Feb-UX Talk Tokyo #6 - Usability labs & Qualitative research methods
 snippet: There will be two presentations: "Cross-platform mobile interface design" by Mark McFarlane "UX ...
 ---
 22 participants

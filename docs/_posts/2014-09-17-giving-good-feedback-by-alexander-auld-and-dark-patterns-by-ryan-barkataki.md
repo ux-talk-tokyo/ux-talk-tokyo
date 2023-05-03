@@ -1,6 +1,6 @@
 ---
 layout: post
-title: UX Talk Tokyo #13 - "Giving good feedback" by Alexander Auld & "Dark Patterns" by Ryan Barkataki
+title: 2014 Sep-UX Talk Tokyo #13 - "Giving good feedback" by Alexander Auld & "Dark Patterns" by Ryan Barkataki
 snippet: There will be two presentations: 1) "From icons to product — an evolution of design at Ustwo" ...
 ---
 13 participants

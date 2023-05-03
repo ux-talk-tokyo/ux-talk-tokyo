@@ -1,6 +1,6 @@
 ---
 layout: post
-title: UX Talk Tokyo #26 : "Managing Customer Loyalty with UX and CX" by Naoki Endo and "How Prototypes Speed Up the Design Process" by Riomar McCartney
+title: 2016 May-UX Talk Tokyo #26 : "Managing Customer Loyalty with UX and CX" by Naoki Endo and "How Prototypes Speed Up the Design Process" by Riomar McCartney
 snippet: Please note the different venue this time. The event will be free, but there will be no food or ...
 ---
 35 participants

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: UX Talk #31: "Keeping Your Users in the Loop" by Hawken King & "GV Design Sprints" by Roy Husada
+title: 2016 Oct-UX Talk #31: "Keeping Your Users in the Loop" by Hawken King & "GV Design Sprints" by Roy Husada
 snippet: There will be two presentations on the night: Alvaro Arregui - "Mastering digital product design ...
 ---
 68 participants

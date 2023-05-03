@@ -1,6 +1,6 @@
 ---
 layout: post
-title: UX Talk Tokyo #14 - "An evolution of design at Ustwo" by Lars Rosengren from Ustwo & "The good in the bad" by Erik Wedeward from Orange Labs
+title: 2014 Oct-UX Talk Tokyo #14 - "An evolution of design at Ustwo" by Lars Rosengren from Ustwo & "The good in the bad" by Erik Wedeward from Orange Labs
 snippet: There will be two presentations: 1) "UX Interview Workshop" Mark McFarlane, director at Tacchi ...
 ---
 32 participants

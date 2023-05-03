@@ -1,6 +1,6 @@
 ---
 layout: post
-title: #54: Bruno Maag: "Designing the BBC's Reith font" // Tom Coombs: "Creating a data-driven culture"
+title: 2019 Sep-#54: Bruno Maag: "Designing the BBC's Reith font" // Tom Coombs: "Creating a data-driven culture"
 snippet: There will be two presentations on the night: *Lars Rosengren: "Doing Agile/Being Agile" * Lars ...
 ---
 74 participants

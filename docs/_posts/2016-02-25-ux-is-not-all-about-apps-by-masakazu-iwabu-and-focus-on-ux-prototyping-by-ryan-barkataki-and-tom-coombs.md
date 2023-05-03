@@ -1,6 +1,6 @@
 ---
 layout: post
-title: UX Talk Tokyo #23 - "UX is not (all) about Apps” by Masakazu Iwabu and "Focus on UX Prototyping" by Ryan Barkataki and Tom Coombs
+title: 2016 Feb-UX Talk Tokyo #23 - "UX is not (all) about Apps” by Masakazu Iwabu and "Focus on UX Prototyping" by Ryan Barkataki and Tom Coombs
 snippet: UXTalkTokyo is BACK for March! There will be two presentations: 1) Soundcheck: User Testing at ...
 ---
 33 participants

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: #53: Ryan Barkataki "Jobs to Be Done" / Kai Qin "Integrating Branding into Your Product"
+title: 2019 Jul-#53: Ryan Barkataki "Jobs to Be Done" / Kai Qin "Integrating Branding into Your Product"
 snippet: There will be two presentations on the night: **Bruno Maag: "Designing the Reith font family for ...
 ---
 58 participants

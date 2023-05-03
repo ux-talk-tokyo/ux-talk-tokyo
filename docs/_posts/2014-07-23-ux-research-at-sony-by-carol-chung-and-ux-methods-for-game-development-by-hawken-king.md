@@ -1,6 +1,6 @@
 ---
 layout: post
-title: UX Talk Tokyo #11 - "UX research at Sony" by Carol Chung & "UX methods for game development" by Hawken King.
+title: 2014 Jul-UX Talk Tokyo #11 - "UX research at Sony" by Carol Chung & "UX methods for game development" by Hawken King.
 snippet: There will be two presentations: 1) "Lean UX in Practice" Mark McFarlane will talk about ...
 ---
 28 participants

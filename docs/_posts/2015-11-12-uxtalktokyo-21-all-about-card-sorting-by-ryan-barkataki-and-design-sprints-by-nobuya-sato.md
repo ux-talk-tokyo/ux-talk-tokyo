@@ -1,6 +1,6 @@
 ---
 layout: post
-title: UXTalkTokyo #21 - "All About Card Sorting" by Ryan Barkataki and "Design Sprints" by Nobuya Sato
+title: 2015 Nov-UXTalkTokyo #21 - "All About Card Sorting" by Ryan Barkataki and "Design Sprints" by Nobuya Sato
 snippet: EDIT: If you've had a cancellation email it's because we made a mistake with the limits of the ...
 ---
 35 participants

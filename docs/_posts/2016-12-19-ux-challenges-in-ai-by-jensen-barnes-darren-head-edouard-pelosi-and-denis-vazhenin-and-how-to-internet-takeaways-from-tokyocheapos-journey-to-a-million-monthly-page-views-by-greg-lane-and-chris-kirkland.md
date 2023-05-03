@@ -1,6 +1,6 @@
 ---
 layout: post
-title: UX Talk Tokyo #33: "UX Challenges in AI" by Jensen Barnes, Darren Head, Edouard Pelosi and Denis Vazhenin" and "How to Internet - Take-aways from TokyoCheapo's Journey to a Million Monthly Page Views" by Greg Lane and Chris Kirkland
+title: 2016 Dec-UX Talk Tokyo #33: "UX Challenges in AI" by Jensen Barnes, Darren Head, Edouard Pelosi and Denis Vazhenin" and "How to Internet - Take-aways from TokyoCheapo's Journey to a Million Monthly Page Views" by Greg Lane and Chris Kirkland
 snippet: Is it too late to say, "Happy New Year?" ^^ Well, UXTalkTokyo is back with our first event this ...
 ---
 29 participants

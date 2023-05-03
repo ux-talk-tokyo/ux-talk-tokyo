@@ -1,6 +1,6 @@
 ---
 layout: post
-title: UX Talk Tokyo #7 - "Mobile UI design" & "UX Strategy diagrams"
+title: 2014 Mar-UX Talk Tokyo #7 - "Mobile UI design" & "UX Strategy diagrams"
 snippet: There will be two presentations: "Using Analytics to Improve UX" This presentation will give a ...
 ---
 24 participants
