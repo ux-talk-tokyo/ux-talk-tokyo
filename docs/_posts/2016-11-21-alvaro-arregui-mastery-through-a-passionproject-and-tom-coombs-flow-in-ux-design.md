@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 2016 Nov-UX Talk Tokyo #32: Alvaro Arregui "Mastery through a passion-project" and Tom Coombs "'Flow' in UX design"
-snippet: Hi there, we are back for December, and this time at IDEO Tokyo (big thanks to IDEO!) There will ...
+title: 2016 Nov-UX Talk Tokyo #32 -  Alvaro Arregui "Mastery through a passion-project" and Tom Coombs "'Flow' in UX design"
+snippet: Hi there, we are back for December, and this time at IDEO Tokyo (big thanks to IDEO!) There will -
 ---
 80 participants
 

@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 2016 Jun-UX Talk Tokyo #27: "Wearables" by Mario Ruiz & "Challenges in Qualitative Data Research" by Hiroyuki Shibata
-snippet: UXTalkTokyo is BACK for July! There will be two presentations: 1) Atomic Design by Tom Coombs Tom ...
+title: 2016 Jun-UX Talk Tokyo #27 -  "Wearables" by Mario Ruiz & "Challenges in Qualitative Data Research" by Hiroyuki Shibata
+snippet: UXTalkTokyo is BACK for July! There will be two presentations -  1) Atomic Design by Tom Coombs Tom -
 ---
 51 participants
 

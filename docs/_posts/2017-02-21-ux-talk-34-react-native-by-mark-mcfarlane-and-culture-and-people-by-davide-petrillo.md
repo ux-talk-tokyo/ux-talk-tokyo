@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 2017 Feb-UX Talk #34: "React Native" by Mark McFarlane and "Culture and People" by Davide Petrillo
-snippet: Hi, we are back for April and this time we are at Pivotal! (Thanks, Pivotal Labs!) There will be ...
+title: 2017 Feb-UX Talk #34 -  "React Native" by Mark McFarlane and "Culture and People" by Davide Petrillo
+snippet: Hi, we are back for April and this time we are at Pivotal! (Thanks, Pivotal Labs!) There will be -
 ---
 94 participants
 

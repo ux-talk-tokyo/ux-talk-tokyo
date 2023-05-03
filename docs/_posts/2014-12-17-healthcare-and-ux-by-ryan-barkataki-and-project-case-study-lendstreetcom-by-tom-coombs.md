@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 2014 Dec-UX Talk Tokyo #16 - "Healthcare & UX" by Ryan Barkataki & "Project case study: LendStreet.com" by Tom Coombs
-snippet: There will be two presentations: 1) "Crashing users' homes, drinking their tea" Chris Palmieri ...
+title: 2014 Dec-UX Talk Tokyo #16 - "Healthcare & UX" by Ryan Barkataki & "Project case study -  LendStreet.com" by Tom Coombs
+snippet: There will be two presentations -  1) "Crashing users' homes, drinking their tea" Chris Palmieri -
 ---
 14 participants
 

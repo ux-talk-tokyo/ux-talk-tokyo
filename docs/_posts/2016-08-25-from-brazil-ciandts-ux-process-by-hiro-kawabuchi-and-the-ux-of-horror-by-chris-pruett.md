@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 2016 Aug-UX Talk Tokyo #29 : "From Brazil! CI&T's UX process" by Hiro Kawabuchi & "The UX of Horror" by Chris Pruett
-snippet: September's UX Talk will be in a new bigger venue. Thanks to Pivotal for agreeing to host the ...
+title: 2016 Aug-UX Talk Tokyo #29  -  "From Brazil! CI&T's UX process" by Hiro Kawabuchi & "The UX of Horror" by Chris Pruett
+snippet: September's UX Talk will be in a new bigger venue. Thanks to Pivotal for agreeing to host the -
 ---
 35 participants
 

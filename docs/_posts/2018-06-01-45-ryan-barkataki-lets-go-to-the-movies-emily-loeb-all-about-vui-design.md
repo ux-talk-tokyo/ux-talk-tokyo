@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 2018 Jun-#45: Ryan Barkataki "Let's go to the Movies!" / Emily Loeb "All About VUI Design"
-snippet: UPDATE: Venue has been changed! Please look at the new address on the event page Hi, we are back ...
+title: 2018 Jun-#45 -  Ryan Barkataki "Let's go to the Movies!" / Emily Loeb "All About VUI Design"
+snippet: UPDATE -  Venue has been changed! Please look at the new address on the event page Hi, we are back -
 ---
 69 participants
 

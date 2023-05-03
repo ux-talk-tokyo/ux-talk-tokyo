@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 2014 Apr-UX Talk Tokyo #8 - "Paul McMahon - Analytics for UX" & "Jan Rod - Project case study"
-snippet: There will be two presentations: "Visualising UX Research" by Nick Bowmast Nick is a dynamic UX ...
+snippet: There will be two presentations -  "Visualising UX Research" by Nick Bowmast Nick is a dynamic UX -
 ---
 23 participants
 

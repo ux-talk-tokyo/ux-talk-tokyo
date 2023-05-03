@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 2017 Nov-#41: Alvaro Arregui: "Metabolist Mobility" / Chelsea Hostetter : "Becoming an Ethical Designer"
-snippet: Before we start... Just a message from the organisers - if you reserve a ticket and then can't ...
+title: 2017 Nov-#41 -  Alvaro Arregui -  "Metabolist Mobility" / Chelsea Hostetter  -  "Becoming an Ethical Designer"
+snippet: Before we start- Just a message from the organisers - if you reserve a ticket and then can't -
 ---
 65 participants
 

@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 2018 Feb-#43: Ryan Neil: "XR (extended reality)" / Ryan Barkataki: "UX Design for Industrial Design for UX Design"
-snippet: Hi, we are back for March and this time we are at Pivotal! (Thanks as always, Pivotal Labs!) ...
+title: 2018 Feb-#43 -  Ryan Neil -  "XR (extended reality)" / Ryan Barkataki -  "UX Design for Industrial Design for UX Design"
+snippet: Hi, we are back for March and this time we are at Pivotal! (Thanks as always, Pivotal Labs!) -
 ---
 89 participants
 

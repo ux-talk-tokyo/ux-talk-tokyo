@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 2019 Apr-#51: Adam Yukio Toda: "From Design to Product Launch" / Dehui Chen: "Next Gen Social Networking"
-snippet: There will be two presentations on the night: Lehel Babos UI Animation 101: A Practical Guide to ...
+title: 2019 Apr-#51 -  Adam Yukio Toda -  "From Design to Product Launch" / Dehui Chen -  "Next Gen Social Networking"
+snippet: There will be two presentations on the night -  Lehel Babos UI Animation 101 -  A Practical Guide to -
 ---
 75 participants
 

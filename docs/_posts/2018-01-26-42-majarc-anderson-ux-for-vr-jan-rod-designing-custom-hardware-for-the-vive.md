@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 2018 Jan-#42: Majarc Anderson: "UX for VR" / Jan Rod: "Designing Custom Hardware for the VIVE"
-snippet: Before we start... Just a message from the organisers - if you reserve a ticket and then can't ...
+title: 2018 Jan-#42 -  Majarc Anderson -  "UX for VR" / Jan Rod -  "Designing Custom Hardware for the VIVE"
+snippet: Before we start- Just a message from the organisers - if you reserve a ticket and then can't -
 ---
 38 participants
 

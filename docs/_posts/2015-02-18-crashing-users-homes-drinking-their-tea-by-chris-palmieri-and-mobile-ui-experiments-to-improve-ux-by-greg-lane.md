@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 2015 Feb-UX Talk Tokyo #17 - "Crashing users' homes, drinking their tea" by Chris Palmieri & "Mobile UI Experiments to Improve UX" by Greg Lane
-snippet: There'll be two presentations: "iBeacons alone don't make for great UX" by Alex Kovács & Doug ...
+snippet: There'll be two presentations -  "iBeacons alone don't make for great UX" by Alex Kovács & Doug -
 ---
 40 participants
 

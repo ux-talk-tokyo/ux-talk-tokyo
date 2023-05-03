@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 2019 Dec-#55: Lars Rosengren: "Agile" / Karen Vazquez: "Understanding by Design (UbD)"
-snippet: Before we start... Just a message from the organisers - if you reserve a ticket and then can't ...
+title: 2019 Dec-#55 -  Lars Rosengren -  "Agile" / Karen Vazquez -  "Understanding by Design (UbD)"
+snippet: Before we start- Just a message from the organisers - if you reserve a ticket and then can't -
 ---
 57 participants
 
