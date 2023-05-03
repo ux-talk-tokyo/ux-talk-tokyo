@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 2019 Jan-#49 -  Chris Cid -  Practical Accessibility / Eric Chan -  "Design Processes through the Eyes of an Artist"
-snippet: UPDATE -  Event is now free. Thanks, indeed! Hi everyone, back for February. There will be two -
+snippet: 71 participants @ Yahoo! Japan - LODGE - UPDATE -  Event is now free. Thanks, indeed! Hi everyone, back for February. There will be two -
 ---
 71 participants
 
