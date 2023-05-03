@@ -7,16 +7,16 @@ snippet: There will be two presentations on the night -  **Bruno Maag -  "Design
 
 Goodpatch Shibuya South Gate Shibuya Bldg 2nd Floor, 3-3 Uguisudanicho Shibuya-ku, Tokyo 150-0032 JAPAN
 
-Before we start...
-Just a message from the organisers - if you reserve a ticket and then can't attend, PLEASE cancel before 2pm on the event day, otherwise other people miss out. We really are trying to avoid changing to pre-pay, so please help us out here. Thanks.
+<strong>Before we start...</strong><br>
+<em>Just a message from the organisers - if you reserve a ticket and then can't attend, PLEASE cancel before 2pm on the event day, otherwise other people miss out. We really are trying to avoid changing to pre-pay, so please help us out here. Thanks.</em> 
 
-We are back for July and this time we are at Goodpatch (There are two, so go to the one shown on the map!)
+We are back for July and this time we are at <strong>Goodpatch</strong> (There are two, so go to the one shown on the map!)<br>
 There will be two presentations on the night:
 
-Ryan Barkataki : "Jobs to Be Done" （ENG/JP)
-Recently, the JTBD framework has been gaining some traction to answer customer needs. Ryan will explain this methodology in this presentation. Ryan is a UX and Industrial Designer, currently working at Sony Japan.
+<strong>Ryan Barkataki : "Jobs to Be Done"</strong> （ENG/JP)<br>
+Recently, the JTBD framework has been gaining some traction to answer customer needs. Ryan will explain this methodology in this presentation. Ryan is a UX and Industrial Designer, currently working at Sony Japan. 
 
-Kai Qin : "Design Process Tips: Integrating Branding into Your Product from the Start (ENG/JP)
+<strong>Kai Qin : "Design Process Tips: Integrating Branding into Your Product from the Start</strong> (ENG/JP)<br>
 By integrating branding into our product design process early and effectively, we design an greater cohesive experience for the end user. Kai is a brand and product designer, currently working at Goodpatch Tokyo.
 
 Then there will be networking until 9pm. And then the world famous nijikai (after party).

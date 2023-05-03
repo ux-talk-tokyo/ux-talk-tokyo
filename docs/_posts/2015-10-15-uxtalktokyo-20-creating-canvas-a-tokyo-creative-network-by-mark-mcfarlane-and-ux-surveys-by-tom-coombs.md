@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 2015 Oct-UXTalkTokyo #20 "Creating Canvas (a Tokyo Creative Network)" by Mark McFarlane & "UX Surveys" by Tom Coombs
-snippet: DIFFERENT LOCATION FOR THIS MONTH! (Check the map) 今月はいつもと違う場所であります！（地図を見てください） UXTalkTokyo is -
+snippet: <strong>DIFFERENT LOCATION FOR THIS MONTH!</strong> <em>(Check the map)</em><br> -
 ---
 38 participants
 
@@ -9,11 +9,11 @@ Gengo, Shibuya 3-27-11, Yushin bldg 8F, Shibuya, Shibuya-ku, Tokyo, Japan 150-00
 
 There will be two presentations
 
-"Creating Canvas"
-1) Mark McFarlane will talk about the journey he and the team have gone through in creating Canvas, the online community for creatives in Tokyo. Mark is Owner/Director at Tacchi Studios
+"Creating Canvas"<br>
+1) Mark McFarlane will talk about the journey he and the team have gone through in creating [Canvas](http://www.canvas.co.com/), the online community for creatives in Tokyo. Mark is Owner/Director at [Tacchi Studios](http://tacchistudios.com/)
 
-"UX Surveys"
-2) Tom Coombs will talk about surveys in UX: some best practice techniques, some tools and some things to avoid. Tom is Head of Products for LendStreet
+"UX Surveys"<br>
+2) Tom Coombs will talk about surveys in UX: some best practice techniques, some tools and some things to avoid. Tom is Head of Products for [LendStreet](http://www.lendstreet.com)
 
 Presentations this month will both be in English.
 

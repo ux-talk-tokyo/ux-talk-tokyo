@@ -9,12 +9,12 @@ Pivotal, Roppongi Hills Mori Tower 20F Roppongi Hills Mori Tower 20F, 6-10-1 Rop
 
 There will be two presentations on the night:
 
-Alvaro Arregui - "Mastering digital product design through a passion-project"
-Alvaro will talk to us about mastering digital product design through a passion project, and how to apply the learnings to client work or to creating the next big hit on the app store.
-He recently founded Nuevo.Studio Tokyo and before that was Lead designer at the trail-blazing London design studio UsTwo.
+<strong>Alvaro Arregui - "Mastering digital product design through a passion-project"</strong><br>
+Alvaro will talk to us about mastering digital product design through a passion project, and how to apply the learnings to client work or to creating the next big hit on the app store.<br>
+He recently founded Nuevo.Studio Tokyo and before that was Lead designer at the trail-blazing London design studio UsTwo. 
 
-Tom Coombs - "Capturing process 'flow' in UX design"
-Tom will talk about and show various methods for capturing process flow.
+<strong>Tom Coombs - "Capturing process 'flow' in UX design"</strong><br>
+Tom will talk about and show various methods for capturing process flow.<br>
 He is Head of Product for LendStreet.
 
 Then there will be networking until 9pm.

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 2019 Feb-#50 -  Tom Coombs  -  Landing Pages and Tracking / Midori Yamazaki  -  The OMNI Branding
-snippet: There will be two presentations on the night -  Adam Yukio Toda -  "Liftoff - Going from Design to -
+snippet: There will be two presentations on the night -  <strong>Adam Yukio Toda -  "Liftoff - Going from -
 ---
 60 participants
 
@@ -9,14 +9,14 @@ Indeed EBISU 〒150-6018 Tōkyō-to, Shibuya-ku, Ebisu, 4 Chome−20−3 恵比�
 
 UPDATE: Event is now free. Thanks, indeed!
 
-Hi everyone, back for February.
+Hi everyone, back for February. 
 
 There will be two presentations on the night:
 
-Tom Coombs - Landing Pages and Tracking (ENG)
+<strong>Tom Coombs - Landing Pages and Tracking</strong> (ENG)<br>
 Description coming soon.
 
-Midori Yamazaki – The OMNI Branding (JP/ENG)
+<strong>Midori Yamazaki – The OMNI Branding</strong> (JP/ENG)<br>
 Midori will be talking about the OMNI Channel Branding that can tell brand story in the most effective way with premium experience. Midori is a Creative Director of Strategic Creative Room at Condé Nast Japan.
 
 Then there will be networking until 9pm. And then the world famous nijikai (after party).

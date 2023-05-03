@@ -11,11 +11,11 @@ Sorry it's been a while, but we are back for December and this time we are at Pi
 
 There will be two presentations on the night:
 
-Ryan Barkataki : "Kids UX Research" (ENG/JP Subtitles)
-Testing with kids is not as easy as you think. Ryan goes over some of the tips and tricks you need to think about when doing UX Research with children. Ryan is a Designer, Researcher and Prototyper at Sony Interactive Entertainment, Japan.
+<strong>Ryan Barkataki : "Kids UX Research"</strong> <em>(ENG/JP Subtitles)</em><br>
+Testing with kids is not as easy as you think. Ryan goes over some of the tips and tricks you need to think about when doing UX Research with children. Ryan is a Designer, Researcher and Prototyper at Sony Interactive Entertainment, Japan. 
 
-Toyohiro Kanayama : "Highlights from the UXPA (User Experience Professionals Association) International Conference 2018" (ENG/JP)
-Toyohiro (Toy-san) is the UXPA regional director since 2012. He will talk about the UXPA 2018 conference in Puerto Rico, and share some presentations from the conference.
+<strong>Toyohiro Kanayama : "Highlights from the UXPA (User Experience Professionals Association) International Conference 2018"</strong> <em>(ENG/JP)</em><br>
+Toyohiro (Toy-san) is the UXPA regional director since 2012. He will talk about the UXPA 2018 conference in Puerto Rico, and share some presentations from the conference. 
 
 Then there will be networking until 9pm. And then the world famous nijikai (after party).
 

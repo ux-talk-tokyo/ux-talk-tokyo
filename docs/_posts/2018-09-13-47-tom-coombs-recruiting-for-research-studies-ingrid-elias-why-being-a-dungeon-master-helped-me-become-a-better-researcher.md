@@ -7,18 +7,18 @@ snippet: Sorry it's been a while, but we are back for December and this time we 
 
  〒141-0021 Tōkyō-to, Shinagawa-ku, 品川区Kamiōsaki, 2 Chome−１３−３０ oak meguro 10F
 
-Before we start...
-Just a message from the organisers - if you reserve a ticket and then can't attend, PLEASE cancel before 2pm on the event day, otherwise other people miss out. We really are trying to avoid changing to pre-pay, so please help us out here. Thanks.
+<strong>Before we start...</strong><br>
+<em>Just a message from the organisers - if you reserve a ticket and then can't attend, PLEASE cancel before 2pm on the event day, otherwise other people miss out. We really are trying to avoid changing to pre-pay, so please help us out here. Thanks.</em> 
 
-We are back for September and this time we are at Indeed MEGURO (NOT the Ebisu one, returning visitors!)
+We are back for September and this time we are at <strong>Indeed MEGURO</strong> (NOT the Ebisu one, returning visitors!)<br>
 Indeed is kindly sponsoring the event, so it's FREE and there'll be pizza! (Thanks indeed!)
 
 There will be two presentations on the night:
 
-Tom Coombs - "Recruiting for Research Studies"
-Tom will talk about methods for recruiting participants for research studies. He will share some early results of experiments done at LendStreet to evaluate Facebook ads as a recruitment tool. Tom is Co-founder / Head of Product at LendStreet Financial, a consumer lending company.
+<strong>Tom Coombs - "Recruiting for Research Studies"</strong> <br>
+Tom will talk about methods for recruiting participants for research studies. He will share some early results of experiments done at LendStreet to evaluate Facebook ads as a recruitment tool. Tom is Co-founder / Head of Product at LendStreet Financial, a consumer lending company. 
 
-Ingrid Elias - “Why being a Dungeon Master helped me become a better researcher” (Presentation in English w/ some Japanese Subtitles)
+<strong>Ingrid Elias - “Why being a Dungeon Master helped me become a better researcher”</strong> (Presentation in English w/ some Japanese Subtitles)<br>
 Ingrid will be talking about how even a nerdy hobby like table top role playing can get you ready to tackle new challenges as a UX designer. Ingrid is a UX Designer at Goodpatch, Shibuya.
 
 Then there will be networking until 9pm. And then the world famous nijikai (after party).

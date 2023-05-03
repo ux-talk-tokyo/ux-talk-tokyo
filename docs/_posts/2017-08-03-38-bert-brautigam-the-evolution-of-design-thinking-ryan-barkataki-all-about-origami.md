@@ -7,17 +7,17 @@ snippet: Hi, we are back for September and this time we are at Pivotal! (Thanks 
 
 Goodpatch Shibuya South Gate Shibuya Bldg 2nd Floor, 3-3 Uguisudanicho Shibuya-ku, Tokyo 150-0032 JAPAN
 
-Before we start...
-Just a message from the organisers - if you reserve a ticket and then can't attend, PLEASE cancel before 2pm on the event day, otherwise other people miss out. We really are trying to avoid changing to pre-pay, so please help us out here. Thanks.
+<strong>Before we start...</strong><br>
+<em>Just a message from the organisers - if you reserve a ticket and then can't attend, PLEASE cancel before 2pm on the event day, otherwise other people miss out. We really are trying to avoid changing to pre-pay, so please help us out here. Thanks.</em> 
 
-We are back for August and this time we are at Goodpatch (There are two, so go to the one shown on the map!)
+We are back for August and this time we are at <strong>Goodpatch</strong> (There are two, so go to the one shown on the map!)<br>
 There will be two presentations on the night:
 
-Bert Brautigam : "The Evolution of Design Thinking" （ENG)
+<strong>Bert Brautigam : "The Evolution of Design Thinking"</strong> （ENG)<br>
 Bert will speak about the evolution of the design discipline and how Design thinking is challenged for its business relevance. Bert is the Design Strategist at Ziba Tokyo.
 
-Ryan Barkataki : "All About Origami" (ENG w/ JP Subtitles)
-UX Talk Tokyo's very own Ryan will give an overview and examples of FaceBook's free prototyping tool, Origami. Ryan is a UX and Industrial Designer, working at Sony Interactive Entertainment, Japan.
+<strong>Ryan Barkataki : "All About Origami"</strong> (ENG w/ JP Subtitles)<br>
+UX Talk Tokyo's very own Ryan will give an overview and examples of FaceBook's free prototyping tool, Origami. Ryan is a UX and Industrial Designer, working at Sony Interactive Entertainment, Japan. 
 
 Then there will be networking until 9pm. And then the world famous nijikai (after party).
 

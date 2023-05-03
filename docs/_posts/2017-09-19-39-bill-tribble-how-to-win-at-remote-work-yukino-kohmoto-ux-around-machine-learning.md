@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 2017 Sep-#39 -  Bill Tribble  -  "How to Win at Remote Work" / Yukino Kohmoto "UX Around Machine Learning"
-snippet: Before we start- Just a message from the organisers - if you reserve a ticket and then can't -
+snippet: <strong>Before we start-</strong><br> <em>Just a message from the organisers - if you reserve a -
 ---
 81 participants
 
@@ -11,10 +11,10 @@ Hi, we are back for September and this time we are at Pivotal! (Thanks as always
 
 There will be two presentations on the night:
 
-*Bill Tribble - How to Win at Remote Work * (ENG w/ JP Subtitles)
+*<em>Bill Tribble - How to Win at Remote Work *</em> (ENG w/ JP Subtitles)<br>
 Bill will talk about the pleasures and pitfalls of remote life - strategies for success, what to avoid, and how to find work online. Bill is a design team leader, UX consultant, and digital product designer based in Tokyo.
 
-*Yukino Kohmoto - UX around machine learning * (ENG/JP)
+*<em>Yukino Kohmoto - UX around machine learning *</em> (ENG/JP)<br>
 Yukino will talk about what machine learning has been apparently changing around us and a potential role of UX designer in such changes. Yukino is a in-house designer based in Japan
 
 Then there will be networking until 9pm. And then the world famous nijikai (after party).

@@ -9,16 +9,16 @@ Indeed Tokyo Yebisu Garden Place Tower 32F, 20-3 Ebisu 4-chome, Shibuya-ku, Toky
 
 Is it too late to say, "Happy New Year?" ^^
 
-Well, UXTalkTokyo is back with our first event this year and this time we're being hosted at of our favourite places, Indeed Japan (Thanks as always, indeed!)
+Well, UXTalkTokyo is <em>back</em> with our first event this year and this time we're being hosted at of our favourite places, <strong>Indeed Japan</strong>  (Thanks as always, indeed!)
 
-As usual, there will be two presentations:
-*1) *React Native by Mark McFarlane
+As usual, there will be two presentations:<br>
+*<em>1)  *React Native</em> by Mark McFarlane<br>
 Mark will share his early experiences of React Native, from the point of view of an experienced native iOS and Android designer/developer. React Native is the next generation of React - a Javascript code library developed by Facebook and Instagram made for creating UI. Mark is a long time supporter of the event and runs Tacchi Studios near Omotesando. His team also created Canvas, (canvas.co.com) the very fun social network for creatives in Tokyo.
 
-*2) *Culture and People by Davide Petrillo
-A recent transplant to Tokyo, Davide is the Lead Product Manager at GoodPatch and he'll be talking about how being human leads to great products.
+*<em>2)  *Culture and People</em> by Davide Petrillo<br>
+A recent transplant to Tokyo, Davide is the Lead Product Manager at GoodPatch and he'll be talking about how being human leads to great products. 
 
-We'll have our usual show and tell and jobs sections in between presentations. After that there will be networking until 9pm. AND PLEASE STAY FOR THE NIJIKAI! It's really fun.
+We'll have our usual show and tell and jobs sections in between presentations. After that there will be networking until 9pm. AND PLEASE STAY FOR THE NIJIKAI! It's really fun. 
 
 It's an open, inclusive group. Anyone interested in UX is welcome.
 
