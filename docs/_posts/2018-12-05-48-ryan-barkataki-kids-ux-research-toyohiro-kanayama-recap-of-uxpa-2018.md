@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 2018 Dec-#48 -  Ryan Barkataki "Kids UX Research" / Toyohiro Kanayama "Recap of UXPA 2018"
-snippet: Happy New Year everyone! Before we start, just wanted to mention that Udemy has a bunch of UX -
+snippet: 54 participants @ Pivotal, Roppongi Hills Mori Tower 20F - Happy New Year everyone! Before we start, just wanted to mention that Udemy has a bunch of UX -
 ---
 54 participants
 

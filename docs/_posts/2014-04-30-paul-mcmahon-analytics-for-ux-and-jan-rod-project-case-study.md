@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 2014 Apr-UX Talk Tokyo #8 - "Paul McMahon - Analytics for UX" & "Jan Rod - Project case study"
-snippet: There will be two presentations -  <strong>"Visualising UX Research"</strong><br> by Nick -
+snippet: 23 participants @ Gengo offices - There will be two presentations -  <strong>"Visualising UX Research"</strong><br> by Nick -
 ---
 23 participants
 

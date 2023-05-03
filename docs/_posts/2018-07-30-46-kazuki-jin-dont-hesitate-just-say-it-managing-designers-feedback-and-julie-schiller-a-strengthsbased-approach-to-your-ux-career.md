@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 2018 Jul-#46 -  Kazuki Jin -  "Don't hesitate, just say it! - Managing Designers Feedback" and Julie Schiller -  "A strengths-based approach to your UX career"
-snippet: <strong>Before we start-</strong><br> <em>Just a message from the organisers - if you reserve a -
+snippet: 80 participants @ beBit, Inc. - <strong>Before we start-</strong><br> <em>Just a message from the organisers - if you reserve a -
 ---
 80 participants
 

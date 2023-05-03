@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 2018 Sep-#47 -  Tom Coombs -  "Recruiting for Research Studies" / Ingrid Elias -  "Why Being a Dungeon Master Helped me Become a Better Researcher”
-snippet: Sorry it's been a while, but we are back for December and this time we are at Pivotal! (Thanks as -
+snippet: 80 participants @  - Sorry it's been a while, but we are back for December and this time we are at Pivotal! (Thanks as -
 ---
 80 participants
 

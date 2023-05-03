@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 2019 Dec-#55 -  Lars Rosengren -  "Agile" / Karen Vazquez -  "Understanding by Design (UbD)"
-snippet: UXTalkTokyo is <strong>BACK</strong> for August! There will be two presentations - <br> <strong>1) -
+snippet: 57 participants @ Zehitomo - The first meeting of UX Talk Tokyo, and [Gengo](http - //gengo.com) have very kindly offered to host -
 ---
 57 participants
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 2014 Jan-UX Talk Tokyo #5 - The FAILURE edition
-snippet: UX Talk Tokyo #6 is next week on Wednesday 19th, and there will be two talks - Ryan (from Up -
+snippet: 21 participants @ Gengo offices - UX Talk Tokyo #6 is next week on Wednesday 19th, and there will be two talks - Ryan (from Up -
 ---
 21 participants
 

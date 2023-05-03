@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 2016 Sep-UX Talk Tokyo #30  -  "AI for designers" by James Bowskill & "Agile UX and branding" by Alexander Auld
-snippet: UXTalkTokyo is <em>back</em> for October and this time we're being hosted at <strong>Indeed -
+snippet: 75 participants @ Pivotal, Roppongi Hills Mori Tower 20F - UXTalkTokyo is <em>back</em> for October and this time we're being hosted at <strong>Indeed -
 ---
 75 participants
 

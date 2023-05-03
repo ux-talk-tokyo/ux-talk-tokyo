@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 2014 Feb-UX Talk Tokyo #6 - Usability labs & Qualitative research methods
-snippet: There will be two presentations -  <strong>"Cross-platform mobile interface design"</strong><br> by -
+snippet: 22 participants @ Gengo offices - There will be two presentations -  <strong>"Cross-platform mobile interface design"</strong><br> by -
 ---
 22 participants
 

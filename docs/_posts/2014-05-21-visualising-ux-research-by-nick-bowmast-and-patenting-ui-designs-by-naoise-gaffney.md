@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 2014 May-UX Talk Tokyo #9 - "Visualising UX research" by Nick Bowmast & "Patenting UI designs" by Naoise Gaffney
-snippet: There will be two presentations -  <strong>"Talking Type"</strong><br> Ian Lynam, an accomplished -
+snippet: 25 participants @ Gengo offices - There will be two presentations -  <strong>"Talking Type"</strong><br> Ian Lynam, an accomplished -
 ---
 25 participants
 

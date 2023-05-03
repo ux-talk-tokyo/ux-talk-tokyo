@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 2018 Mar-#44 -  Arlon Roese  -  "Customer Success and Why it is Important" / Canyon Boak -  "Increasing Fidelity with Confidence"
-snippet: <strong>Before we start-</strong><br> <em>Just a message from the organisers - if you reserve a -
+snippet: 55 participants @ Pivotal, Roppongi Hills Mori Tower 20F - <strong>Before we start-</strong><br> <em>Just a message from the organisers - if you reserve a -
 ---
 55 participants
 

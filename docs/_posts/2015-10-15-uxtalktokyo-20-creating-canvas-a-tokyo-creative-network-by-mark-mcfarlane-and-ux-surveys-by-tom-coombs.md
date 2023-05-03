@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 2015 Oct-UXTalkTokyo #20 "Creating Canvas (a Tokyo Creative Network)" by Mark McFarlane & "UX Surveys" by Tom Coombs
-snippet: <strong>DIFFERENT LOCATION FOR THIS MONTH!</strong> <em>(Check the map)</em><br> -
+snippet: 38 participants @ Gengo, Shibuya - <strong>DIFFERENT LOCATION FOR THIS MONTH!</strong> <em>(Check the map)</em><br> -
 ---
 38 participants
 

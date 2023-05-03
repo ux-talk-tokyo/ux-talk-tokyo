@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 2014 Oct-UX Talk Tokyo #14 - "An evolution of design at Ustwo" by Lars Rosengren from Ustwo & "The good in the bad" by Erik Wedeward from Orange Labs
-snippet: There will be two presentations -  1) "UX Interview Workshop" <br> Mark McFarlane, director at -
+snippet: 32 participants @ Gengo offices - There will be two presentations -  1) "UX Interview Workshop" <br> Mark McFarlane, director at -
 ---
 32 participants
 

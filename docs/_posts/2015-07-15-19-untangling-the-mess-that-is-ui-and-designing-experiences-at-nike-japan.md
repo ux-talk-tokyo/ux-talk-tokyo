@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 2015 Jul-#19 "Untangling the mess that is UI" & "Designing Experiences at Nike Japan"
-snippet: There will be two presentations "Creating Canvas"<br> 1) Mark McFarlane will talk about the -
+snippet: 38 participants @ Gengo, Shibuya - There will be two presentations "Creating Canvas"<br> 1) Mark McFarlane will talk about the -
 ---
 38 participants
 

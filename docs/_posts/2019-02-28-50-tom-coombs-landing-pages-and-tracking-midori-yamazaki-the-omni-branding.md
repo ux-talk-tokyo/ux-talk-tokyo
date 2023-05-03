@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 2019 Feb-#50 -  Tom Coombs  -  Landing Pages and Tracking / Midori Yamazaki  -  The OMNI Branding
-snippet: There will be two presentations on the night -  <strong>Adam Yukio Toda -  "Liftoff - Going from -
+snippet: 60 participants @ Indeed EBISU - There will be two presentations on the night -  <strong>Adam Yukio Toda -  "Liftoff - Going from -
 ---
 60 participants
 

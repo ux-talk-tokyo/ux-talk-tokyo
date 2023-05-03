@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 2019 Apr-#51 -  Adam Yukio Toda -  "From Design to Product Launch" / Dehui Chen -  "Next Gen Social Networking"
-snippet: There will be two presentations on the night -  <strong>Lehel Babos</strong><br> <strong>UI -
+snippet: 75 participants @ IDEO Tokyo - There will be two presentations on the night -  <strong>Lehel Babos</strong><br> <strong>UI -
 ---
 75 participants
 

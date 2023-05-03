@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 2018 Jan-#42 -  Majarc Anderson -  "UX for VR" / Jan Rod -  "Designing Custom Hardware for the VIVE"
-snippet: <strong>Before we start-</strong><br> <em>Just a message from the organisers - if you reserve a -
+snippet: 38 participants @ AQ - <strong>Before we start-</strong><br> <em>Just a message from the organisers - if you reserve a -
 ---
 38 participants
 

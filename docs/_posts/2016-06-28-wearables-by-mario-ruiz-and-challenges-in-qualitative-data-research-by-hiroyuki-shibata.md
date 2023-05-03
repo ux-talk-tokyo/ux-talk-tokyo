@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 2016 Jun-UX Talk Tokyo #27 -  "Wearables" by Mario Ruiz & "Challenges in Qualitative Data Research" by Hiroyuki Shibata
-snippet: UXTalkTokyo is <strong>BACK</strong> for July! There will be two presentations - <br> <strong>1) -
+snippet: 51 participants @ EGG Japan, Shin-Marunouchi Bldg - UXTalkTokyo is <strong>BACK</strong> for July! There will be two presentations - <br> <strong>1) -
 ---
 51 participants
 

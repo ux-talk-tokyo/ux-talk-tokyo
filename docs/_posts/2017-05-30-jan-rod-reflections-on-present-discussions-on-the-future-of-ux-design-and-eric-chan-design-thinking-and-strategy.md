@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 2017 May-UX Talk Tokyo #36 -  Jan Rod -  "Reflections on Present Discussions on the Future of UX Design" & Eric Chan  -  "Design Thinking & Strategy"
-snippet: <strong>Before we start-</strong><br> <em>Just a message from the organisers - if you reserve a -
+snippet: 38 participants @ IDEO Tokyo - <strong>Before we start-</strong><br> <em>Just a message from the organisers - if you reserve a -
 ---
 38 participants
 

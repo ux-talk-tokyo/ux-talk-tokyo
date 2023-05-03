@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 2016 Oct-UX Talk #31 -  "Keeping Your Users in the Loop" by Hawken King & "GV Design Sprints" by Roy Husada
-snippet: There will be two presentations on the night -  <strong>Alvaro Arregui - "Mastering digital product -
+snippet: 68 participants @ Indeed Tokyo - There will be two presentations on the night -  <strong>Alvaro Arregui - "Mastering digital product -
 ---
 68 participants
 

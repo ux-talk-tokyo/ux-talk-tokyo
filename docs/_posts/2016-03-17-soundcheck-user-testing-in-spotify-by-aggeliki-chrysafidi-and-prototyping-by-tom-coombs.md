@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 2016 Mar-UX Talk Tokyo #24  -  "Soundcheck -  User Testing in Spotify" by Aggeliki Chrysafidi and "Prototyping" by Tom Coombs
-snippet: UXTalkTokyo is <strong>BACK</strong> for April and this time we are at IDEO. There will be two -
+snippet: 34 participants @ Gengo, Shibuya - UXTalkTokyo is <strong>BACK</strong> for April and this time we are at IDEO. There will be two -
 ---
 34 participants
 

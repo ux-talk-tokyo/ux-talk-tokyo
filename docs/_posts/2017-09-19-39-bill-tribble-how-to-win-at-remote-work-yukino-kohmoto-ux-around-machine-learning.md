@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 2017 Sep-#39 -  Bill Tribble  -  "How to Win at Remote Work" / Yukino Kohmoto "UX Around Machine Learning"
-snippet: <strong>Before we start-</strong><br> <em>Just a message from the organisers - if you reserve a -
+snippet: 81 participants @ Pivotal, Roppongi Hills Mori Tower 20F - <strong>Before we start-</strong><br> <em>Just a message from the organisers - if you reserve a -
 ---
 81 participants
 

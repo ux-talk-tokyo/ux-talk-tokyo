@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 2014 Nov-UX Talk Tokyo #15 - "The UX of Event Design" Jan Rose and "UX Interview Workshop" Mark McFarlane
-snippet: <strong>LOCATION UPDATE  -  PORTAL POINT OMOTESANDO!</strong> <br> -
+snippet: 27 participants @ Gengo offices - <strong>LOCATION UPDATE  -  PORTAL POINT OMOTESANDO!</strong> <br> -
 ---
 27 participants
 

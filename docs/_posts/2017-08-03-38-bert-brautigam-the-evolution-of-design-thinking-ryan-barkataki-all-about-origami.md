@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 2017 Aug-#38 -  Bert Brautigam - "The Evolution of Design Thinking" / Ryan Barkataki  -  "All About Origami"
-snippet: Hi, we are back for September and this time we are at Pivotal! (Thanks as always, Pivotal Labs!) -
+snippet: 75 participants @ Goodpatch Shibuya - Hi, we are back for September and this time we are at Pivotal! (Thanks as always, Pivotal Labs!) -
 ---
 75 participants
 

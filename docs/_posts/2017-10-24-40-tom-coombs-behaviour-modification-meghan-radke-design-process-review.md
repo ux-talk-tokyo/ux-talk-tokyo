@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 2017 Oct-#40 -  Tom Coombs -  "Behaviour Modification" / Meghan Radke -  "Design Process review"
-snippet: <strong>Before we start-</strong><br> <em>Just a message from the organisers - if you reserve a -
+snippet: 98 participants @  - <strong>Before we start-</strong><br> <em>Just a message from the organisers - if you reserve a -
 ---
 98 participants
 

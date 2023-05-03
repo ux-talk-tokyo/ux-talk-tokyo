@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 2018 Jun-#45 -  Ryan Barkataki "Let's go to the Movies!" / Emily Loeb "All About VUI Design"
-snippet: <em>UPDATE -  Venue has been changed! Please look at the new address on the event page</em> Hi, we -
+snippet: 69 participants @ Goodpatch Shibuya - <em>UPDATE -  Venue has been changed! Please look at the new address on the event page</em> Hi, we -
 ---
 69 participants
 

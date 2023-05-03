@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 2014 Mar-UX Talk Tokyo #7 - "Mobile UI design" & "UX Strategy diagrams"
-snippet: There will be two presentations -  <strong>"Using Analytics to Improve UX"</strong><br> This -
+snippet: 24 participants @ Gengo offices - There will be two presentations -  <strong>"Using Analytics to Improve UX"</strong><br> This -
 ---
 24 participants
 

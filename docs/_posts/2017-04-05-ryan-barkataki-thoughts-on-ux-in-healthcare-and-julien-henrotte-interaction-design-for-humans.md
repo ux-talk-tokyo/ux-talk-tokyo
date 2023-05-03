@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 2017 Apr-UX Talk Tokyo #35 -  Ryan Barkataki -  "Thoughts on UX in Healthcare" & Julien Henrotte -  "Interaction Design for Humans"
-snippet: <strong>Before we start-</strong><br> <em>Just a message from the organisers - if you reserve a -
+snippet: 103 participants @ Pivotal, Roppongi Hills Mori Tower 20F - <strong>Before we start-</strong><br> <em>Just a message from the organisers - if you reserve a -
 ---
 103 participants
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 2014 Aug-UX Talk Tokyo #12 - "Lean UX in Practice" by Mark McFarlane & "Succeeding at Page speed" by Chris Kirkland
-snippet: There will be two presentations -  1) "Giving effective feedback"<br> Alexander from MoneyTree will -
+snippet: 40 participants @ Gengo offices - There will be two presentations -  1) "Giving effective feedback"<br> Alexander from MoneyTree will -
 ---
 40 participants
 
