@@ -19,5 +19,5 @@ Here are some notes on the event and final preparations:
 - Your talk should be about 15-20 minutes. We’ll open for questions afterwards.
 - Bring a laptop, or ask us beforehand if you need to borrow one.
 - There will be a projector with all the regular connectors.
-- If you’ll speak in English, please add Japanese subtitles to your slides. Or vice versa. We can help if needed, we need the file 4 days before.
+- If you’ll speak in English, please add Japanese subtitles to your slides, or vice versa. We can do this for you if you give us the deck 3-4 days before.
 - Please try to join the nijikai (afterparty). People will be keen to talk more.
