@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 2017 Nov-#41 -  Alvaro Arregui -  "Metabolist Mobility" / Chelsea Hostetter  -  "Becoming an Ethical Designer"
-snippet: 65 participants @ NinetyTwo13 by Tokyo Chapter - <strong>Before we start-</strong><br> <em>Just a message from the organisers - if you reserve a -
+snippet: 65 participants @ NinetyTwo13 by Tokyo Chapter - Before we start-<br> Just a message from the organisers - if you reserve a -
 ---
 65 participants
 
