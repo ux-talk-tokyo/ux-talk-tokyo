@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 2019 May-#52 -  Aki Saarinen on "AI" & Lehel Babos on "UI Animation"
-snippet: 102 participants @ Indeed Tamachi (new office) - <strong>Before we start-</strong><br> <em>Just a message from the organisers - if you reserve a -
+snippet: 102 participants @ Indeed Tamachi (new office) - Before we start- <br> Just a message from the organisers - if you reserve a -
 ---
 102 participants
 
