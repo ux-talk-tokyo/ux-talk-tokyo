@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 2017 Jun-#37 -  Aaron Kovalcsik -  "Using Sprints as a SuperPower" / Ryan Ruel  -  "Designing Deliverables"
-snippet: 105 participants @  - <strong>Before we start-</strong><br> <em>Just a message from the organisers - if you reserve a -
+snippet: 105 participants @  - Before we start-<br> Just a message from the organisers - if you reserve a -
 ---
 105 participants
 

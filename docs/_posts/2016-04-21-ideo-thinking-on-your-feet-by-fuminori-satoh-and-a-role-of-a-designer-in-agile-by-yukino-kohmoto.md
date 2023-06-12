@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 2016 Apr-UX Talk Tokyo #25 @ IDEO  -  "Thinking on Your Feet" by Fuminori Satoh and "A Role of a Designer in Agile" by Yukino Kohmoto
-snippet: 35 participants @ IDEO TOKYO - UXTalkTokyo is <strong>BACK</strong> for May! There will be two presentations - <br> <strong>1) -
+snippet: 35 participants @ IDEO TOKYO - UXTalkTokyo is BACK for May! There will be two presentations - <br> 1) -
 ---
 35 participants
 
