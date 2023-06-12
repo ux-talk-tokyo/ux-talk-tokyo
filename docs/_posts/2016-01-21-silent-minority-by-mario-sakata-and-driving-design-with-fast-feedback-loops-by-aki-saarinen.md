@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 2016 Jan-UX Talk Tokyo #22 - "Silent Minority" by Mario Sakata and "Driving Design with Fast Feedback Loops" by Aki Saarinen
-snippet: 39 participants @ Gengo, Shibuya - UXTalkTokyo is <strong>BACK</strong> for February! There will be two presentations - <br> -
+snippet: 39 participants @ Gengo, Shibuya - UXTalkTokyo is BACK for February! There will be two presentations - <br> -
 ---
 39 participants
 
