@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 2015 Apr-"iBeacons alone don't make for great UX" & "All about Eye Tracking"
-snippet: 38 participants @ Gengo offices - <strong>UPDATE - We are WAY above capacity. If you aren't on the list, we are afraid it will not -
+snippet: 38 participants @ Gengo offices - UPDATE - We are WAY above capacity. If you aren't on the list, we are afraid it will not -
 ---
 38 participants
 
