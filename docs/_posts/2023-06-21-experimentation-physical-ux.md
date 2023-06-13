@@ -1,8 +1,9 @@
 ---
 layout: post
-title: Jun 2023 - Alan Roth on 'Experimentation' & Martin van der Linden on 'Physical UX'
-snippet: After 3 years of silence, UX Talk Tokyo is back 
+title: "Jun 2023 - Alan Roth on Experimentation & Martin van der Linden on Physical UX"
+snippet: "After 3 years of silence, UX Talk Tokyo is back "
 ---
+
 UX Talk Tokyo is back (after three years, no less!)
 
 There will be two presentations on the night:
