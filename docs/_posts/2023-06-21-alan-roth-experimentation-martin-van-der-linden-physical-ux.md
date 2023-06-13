@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Jun 2023 - Alan Roth on "Experimentation" & Martin van der Linden on "Physical UX"
+title: "Jun 2023 - Alan Roth on 'Experimentation' & Martin van der Linden on 'Physical UX'"
 snippet: "After 3 years of silence, UX Talk Tokyo is back" 
 ---
 
