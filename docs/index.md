@@ -4,9 +4,11 @@ title: Welcome
 regenerate: true
 ---
 
-‘UX Talk Tokyo’ is a User Experience discussion and networking group in Tokyo.
+‘UX Talk Tokyo’ is a networking and learning group in Tokyo. We hold events in central Tokyo, with presentations on varied topics related to UX.
 
-We hold in-person events in various locations in Tokyo. It’s for anyone interested in UX. Some of the people who come do UX as their job, but there are many other types of people … developers, designers, students. Everyone is welcome. And it’s for Japanese and non-Japanese. The presentations are in English, but of course the networking is in Japanese or English (many people can speak both).
+It’s for anyone interested in UX. Some of the people who come do UX as their job, but there are many other types of people … developers, designers, students. Everyone is welcome.
+
+It’s for Japanese and non-Japanese. Presentations are usually in English, although they usually have Japanese subtitles. Networking is in Japanese or English (many people can speak both).
 
 If you’re interested, please sign up to the email list. And please feel free to get in touch with us.
 

@@ -16,3 +16,5 @@ Martin is a Dutch Architect who runs his own architectural practice in Tokyo. He
 
 See Doorkeeper for details and to register ...
 https://manage.doorkeeper.jp/groups/uxtalktokyo/events/158432
+
+![Event photo](/assets/images/2023-06-21/344976AF-551B-4BB4-97C9-9C66C201E66F_1_105_c.jpeg)
