@@ -24,8 +24,4 @@ It's an open, inclusive group. Anyone interested in UX is welcome.
 
 Registration closes at noon on the day of the event.
 
-![Photo 1 of the event](/ux-talk-tokyo/assets/images/2016-11-21/08EE80D6-4528-415D-BDFE-4BB07896C47C_1_105_c.jpeg)
-![Photo 2 of the event](/ux-talk-tokyo/images/2016-11-21/08EE80D6-4528-415D-BDFE-4BB07896C47C_1_105_c.jpeg)
 ![Photo 3 of the event](/assets/images/2016-11-21/08EE80D6-4528-415D-BDFE-4BB07896C47C_1_105_c.jpeg)
-![Photo 4 of the event](/images/2016-11-21/08EE80D6-4528-415D-BDFE-4BB07896C47C_1_105_c.jpeg)
-![Photo 5 of the event](../assets/images/2016-11-21/08EE80D6-4528-415D-BDFE-4BB07896C47C_1_105_c.jpeg)
