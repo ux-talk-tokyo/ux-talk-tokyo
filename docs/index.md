@@ -12,17 +12,15 @@ It’s for Japanese and non-Japanese. Presentations are usually in English, alth
 
 If you’re interested, please sign up to the email list. And please feel free to get in touch with us.
 
-![Photo of event](/assets/images/2016-09-13/CF8D3393-2534-40CF-8ADE-564E841C51BE_1_105_c.jpeg)
-
 ![Photo of event](/assets/images/2016-10-26/0A0EA0B5-9B07-4ABD-BBD0-06E402547501_1_105_c.jpeg)
-
-![Photo of event](/assets/images/2016-10-26/A12C8A1D-B5D2-49D8-B050-7ACAEC6DEF82_1_105_c.jpeg)
 
 ![Photo of event](/assets/images/2016-11-21/08EE80D6-4528-415D-BDFE-4BB07896C47C_1_105_c.jpeg)
 
 ![Photo of event](/assets/images/2016-11-21/3262B189-5C9E-4069-87E5-113AA47715EE_1_105_c.jpeg)
 
-And it is occasionally said that the after-party is the _main_ event.
+![Photo of event](/assets/images/2023-06-21/344976AF-551B-4BB4-97C9-9C66C201E66F_1_105_c.jpeg)
+
+And it is occasionally said that the after-party is the _main_ event. We especially hope first-time attendees can join.
 
 ![After-party photo](/assets/images/2016-09-13/CF8D3393-2534-40CF-8ADE-564E841C51BE_1_105_c.jpeg)
 
