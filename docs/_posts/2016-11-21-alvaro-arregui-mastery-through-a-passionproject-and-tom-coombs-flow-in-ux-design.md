@@ -24,4 +24,6 @@ It's an open, inclusive group. Anyone interested in UX is welcome.
 
 Registration closes at noon on the day of the event.
 
-![Photo 3 of the event](/assets/images/2016-11-21/08EE80D6-4528-415D-BDFE-4BB07896C47C_1_105_c.jpeg)
+![Photo of the event](/assets/images/2016-11-21/08EE80D6-4528-415D-BDFE-4BB07896C47C_1_105_c.jpeg)
+
+![Photo of the event from back of room](/assets/images/2016-11-21/3262B189-5C9E-4069-87E5-113AA47715EE_1_105_c.jpeg)
