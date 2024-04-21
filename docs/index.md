@@ -10,7 +10,7 @@ It’s for anyone interested in UX. Some of the people who come do UX as their j
 
 It’s for Japanese and non-Japanese. Presentations are usually in English, although they usually have Japanese subtitles. Networking is in Japanese or English (many people can speak both).
 
-If you’re interested, please sign up to the email list. And please feel free to get in touch with us.
+If you’re interested, please sign up to the email list on [Doorkeeper](https://uxtalktokyo.doorkeeper.jp/). And please feel free to get in touch with us [here](https://uxtalktokyo.doorkeeper.jp/contact/new).
 
 ![Photo of event](/assets/images/2016-10-26/0A0EA0B5-9B07-4ABD-BBD0-06E402547501_1_105_c.jpeg)
 
@@ -23,6 +23,8 @@ If you’re interested, please sign up to the email list. And please feel free t
 And it is occasionally said that the after-party is the _main_ event. We especially hope first-time attendees can join.
 
 ![After-party photo](/assets/images/2016-09-13/CF8D3393-2534-40CF-8ADE-564E841C51BE_1_105_c.jpeg)
+
+# Event list
 
 <ul>
   {% for post in site.posts %}
