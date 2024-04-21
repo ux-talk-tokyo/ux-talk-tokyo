@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Jun 2023 - Alan Roth on Experimentation & Martin van der Linden on Physical UX"
-snippet: "After 3 years of silence, UX Talk Tokyo is back "
+title: "Event #56 @ IDEO Tokyo"
+snippet: "Alan Roth (Head of Product for Amazon Alexa) & Martin van der Linden (Architect)"
 ---
 
 UX Talk Tokyo is back (after three years, no less!)

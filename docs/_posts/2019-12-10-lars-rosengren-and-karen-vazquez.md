@@ -1,9 +1,8 @@
 ---
 layout: post
-title: "Event #55 Lars Rosengren and Karen Vazquez"
-snippet: "Thanks to Zehitomo for hosting and Lars and Karen for their talks on Agile and Understanding by Design (UbD) respectively."
+title: "Event #55 @ Zehitomo Tokyo"
+snippet: "Lars Rosengren of usTwo on 'Agile' and Karen Vazquez 'Understanding by Design (UbD)'."
 ---
-
 
 Thanks for everyone who came out last week for UX Talk Tokyo #55, with presentations by Lars Rosengren (“Agile”) and Karen Vazquez: (“Understanding by Design (UbD)”), and a special thanks to our hosts at Zehitomo.
 
